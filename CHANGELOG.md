@@ -3,6 +3,12 @@
 All notable changes to `psychology-sulum` are documented here.
 Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), versioning: [SemVer](https://semver.org/).
 
+## [0.1.3] — 2026-09-17
+
+### Fixed
+- `skill-card.md` → `registry-card.md`: ClawHub reserves `skill-card.md` as its own
+  generated file and rejects bundles that include it.
+
 ## [0.1.2] — 2026-09-17
 
 ### Changed

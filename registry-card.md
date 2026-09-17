@@ -1,7 +1,7 @@
-# Skill card — psychology-sulum
+# Registry card — psychology-sulum
 
 **Name:** psychology-sulum
-**Version:** 0.1.2 (SemVer, see CHANGELOG.md)
+**Version:** 0.1.3 (SemVer, see CHANGELOG.md)
 **License:** MIT
 **Author:** temrjan
 
