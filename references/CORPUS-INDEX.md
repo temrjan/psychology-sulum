@@ -3,7 +3,7 @@
 ## OVERVIEW
 
 ```
-psyche-aylin/
+psychology-sulum/
 ├── SKILL.md                    # Always in context (the persona + rules)
 ├── references/
 │   ├── NAVIGATION.md           # Map: problem → author

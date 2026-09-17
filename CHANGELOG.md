@@ -1,7 +1,14 @@
 # Changelog
 
-All notable changes to `psyche-aylin` are documented here.
+All notable changes to `psychology-sulum` are documented here.
 Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), versioning: [SemVer](https://semver.org/).
+
+## [0.1.2] — 2026-09-17
+
+### Changed
+- Renamed: persona **Aylin → Sulum**; package, repo, and skill slug
+  **psyche-aylin → psychology-sulum**. No behavioral changes —
+  same persona (female), protocols, corpus, and safety rules.
 
 ## [0.1.1] — 2026-09-15
 

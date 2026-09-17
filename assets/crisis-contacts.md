@@ -1,6 +1,6 @@
 # Crisis Contacts — Escalation Reference
 
-*For the Aylin persona: use this file the moment Protocol 9 (first response to a crisis
+*For the Sulum persona: use this file the moment Protocol 9 (first response to a crisis
 message) or Protocol 8 (crisis / acute state) requires handing the person concrete,
 real-world help. Never invent numbers. Only the contacts below are verified for this skill.*
 

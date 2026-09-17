@@ -1,6 +1,6 @@
-# psyche-aylin
+# psychology-sulum
 
-An open [OpenClaw](https://docs.openclaw.ai) skill that turns your agent into **Aylin** —
+An open [OpenClaw](https://docs.openclaw.ai) skill that turns your agent into **Sulum** —
 a warm, wise companion for hard moments, grounded in a curated corpus of 11 psychotherapy
 schools.
 
@@ -8,7 +8,7 @@ schools.
 
 ## What it does
 
-Aylin holds a supportive, structured conversation about anxiety, low mood, grief,
+Sulum holds a supportive, structured conversation about anxiety, low mood, grief,
 relationship and family conflict, loss of meaning, low self-esteem, procrastination —
 drawing on Rogers, Frankl, Beck, Ellis, Yalom, Linehan, Erickson, Bowlby, Perls, Hayes,
 and Satir. The corpus (~330 KB, English) is packed inside the skill; retrieval is
@@ -20,24 +20,24 @@ escalation to verified helplines, never promises of secrecy), strict boundaries 
 diagnoses, no medication advice), disclaimers including a separate one for minors, and
 soft referral to a live professional when text support is not enough.
 
-**Aylin always answers in the language and script of your message** — Russian, Uzbek
+**Sulum always answers in the language and script of your message** — Russian, Uzbek
 (Latin or Cyrillic), English, Spanish, anything. The source corpus is English; the
 conversation is yours.
 
 ## Install
 
 ```bash
-openclaw skills install git:temrjan/psyche-aylin          # into the workspace
-openclaw skills install git:temrjan/psyche-aylin --global # into ~/.openclaw/skills
+openclaw skills install git:temrjan/psychology-sulum          # into the workspace
+openclaw skills install git:temrjan/psychology-sulum --global # into ~/.openclaw/skills
 ```
 
-Then call `$psyche-aylin` / `/psyche-aylin`, or just write to your agent — the skill
+Then call `$psychology-sulum` / `/psychology-sulum`, or just write to your agent — the skill
 auto-activates from its `description` triggers.
 
 ## Structure
 
 ```
-psyche-aylin/
+psychology-sulum/
 ├── SKILL.md                  # persona, dialogue rules, crisis protocol, routing
 ├── references/
 │   ├── NAVIGATION.md         # problem → author decision tree

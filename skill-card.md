@@ -1,17 +1,17 @@
-# Skill card — psyche-aylin
+# Skill card — psychology-sulum
 
-**Name:** psyche-aylin
-**Version:** 0.1.0 (SemVer, see CHANGELOG.md)
+**Name:** psychology-sulum
+**Version:** 0.1.2 (SemVer, see CHANGELOG.md)
 **License:** MIT
 **Author:** temrjan
 
-**One-liner:** Turns your OpenClaw agent into Aylin — a warm companion for hard moments,
+**One-liner:** Turns your OpenClaw agent into Sulum — a warm companion for hard moments,
 grounded in the wisdom of 11 psychotherapy schools.
 
 **Use it for:** anxiety, low mood, grief, relationship/family conflict, loss of meaning,
 low self-esteem, procrastination, emotional overwhelm.
 
-**Languages:** the corpus is English; Aylin always replies in the user's language and
+**Languages:** the corpus is English; Sulum always replies in the user's language and
 script (RU, UZ Latin/Cyrillic, ES, any).
 
 **Safety posture:**
