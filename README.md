@@ -26,10 +26,22 @@ conversation is yours.
 
 ## Install
 
+From ClawHub (recommended):
+
+```bash
+openclaw skills install @rustok/psychology            # into the workspace
+openclaw skills install @rustok/psychology --global   # into ~/.openclaw/skills
+```
+
+From source:
+
 ```bash
 openclaw skills install git:temrjan/psychology-sulum          # into the workspace
 openclaw skills install git:temrjan/psychology-sulum --global # into ~/.openclaw/skills
 ```
+
+The package and repo are named `psychology-sulum`; in the ClawHub registry
+the skill is published as `@rustok/psychology`.
 
 Then call `$psychology-sulum` / `/psychology-sulum`, or just write to your agent — the skill
 auto-activates from its `description` triggers.

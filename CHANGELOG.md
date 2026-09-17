@@ -3,6 +3,12 @@
 All notable changes to `psychology-sulum` are documented here.
 Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), versioning: [SemVer](https://semver.org/).
 
+## [0.1.4] — 2026-09-17
+
+### Changed
+- README: ClawHub install documented (`openclaw skills install @rustok/psychology`)
+  alongside git install; registry slug ↔ package name mapping stated explicitly.
+
 ## [0.1.3] — 2026-09-17
 
 ### Fixed
